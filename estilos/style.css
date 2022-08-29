@@ -49,5 +49,5 @@ nav > a >img:hover {
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.74);
     border: 2px solid rgba(255, 255, 255, 0.671);
-    transition: translate .5s, border 1s;
+    transition: transform .5s, border 1s;
 }
